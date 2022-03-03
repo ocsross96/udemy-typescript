@@ -1,0 +1,19 @@
+{
+  "name": "maps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "volta": {
+    "node": "16.13.2"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^6.0.0-alpha.6",
+    "@types/faker": "^6.6.9",
+    "parcel": "^2.3.1"
+  }
+}
